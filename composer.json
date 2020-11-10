@@ -1,0 +1,7 @@
+{
+    "require": {
+        "s1lentium/iptools": "^1.1",
+        "phpseclib/bcmath_compat": "^1.0",
+        "ipinfo/ipinfo": "^1.1"
+    }
+}
